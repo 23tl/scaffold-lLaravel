@@ -2,6 +2,10 @@
 
 简化基于 Laravel 新项目初始化的时间;开箱即用，加速 Api 开发;少许的依赖安装
 
+## 安装
+
+``composer create-project strays/scaffold-laravel``
+
 ## 编码格式
 项目使用 `Pint` 保持团队编码格式统一，具体文档请参考[地址](https://learnku.com/docs/laravel/10.x/pint/14912)
 
